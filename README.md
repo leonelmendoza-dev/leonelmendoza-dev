@@ -1,6 +1,6 @@
 # 👋 Hola, soy Leonel Mendoza
 
-💻 **Analista de Sistemas** con experiencia en infraestructura tecnológica y monitoreo de sistemas críticos, actualmente aprendiendo **Java** y **C++** con el objetivo de poder desarrollar aplicaciones en estos lenguajes que puedan contribuir a la automatización y solución de problemas
+💻 **Analista de Sistemas** con experiencia en infraestructura tecnológica y monitoreo de sistemas críticos, actualmente aprendiendo **Java** y **C++** con el objetivo de poder desarrollar aplicaciones en estos lenguajes que puedan contribuir a la automatización y solución de problemas.
 ---
 
 ## 🛠️ Tech Stack & Herramientas
