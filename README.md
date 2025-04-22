@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Leonel Mendoza
 
-<!--
-**leonelmendoza-dev/leonelmendoza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista de Sistemas** con experiencia en infraestructura tecnológica y monitoreo de sistemas críticos. Apasionado por la ciberseguridad, actualmente aprendiendo **Java** y **C++** con el objetivo de poder desarrollar aplicaciones en estos lenguajes que puedan contribuir de alguna manera a la automatización y solución de problemas
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Herramientas
+- Infraestructura: `VMware`, `vROps`, `PRTG`, `OpManager`
+- Aprendiendo: `Java`, `C++`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Intereses
+
+- Desarrollo de herramientas para pentesting
+- Arquitectura de sistemas financieros
+- Automatización y observabilidad
+
+---
+
+## 🚀 Proyectos recientes
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| 🔐 `Generador de Contraseñas en Python` | Herramienta programada para poder generar contraseñas más seguras | `PYTHON`|
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/leonel-mendoza-25581b260/)
+
+---
+
+
