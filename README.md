@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Tu Nombre]</h1>
+<h1 align="center">Hi 👋, I'm Leonel Mendoza</h1>
 <h3 align="center">🎓 Systems Engineering Student | 🛠️ Jr. Cloud & Systems Analyst</h3>
 
 <p align="center">
@@ -6,10 +6,6 @@
 I'm fascinated by infrastructure and how cloud technology sustains modern applications. I enjoy balancing the world of servers with the logic of programming.
 </p>
 
-<!-- CONTADOR DE VISITAS (Cambia 'TU_USUARIO' por tu usuario real de GitHub) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <!-- ESTRUCTURA DE DOS COLUMNAS (Texto a la izquierda, Ilustración a la derecha) -->
 <table>
@@ -19,8 +15,8 @@ I'm fascinated by infrastructure and how cloud technology sustains modern applic
         <li>🔭 I’m currently working on <b>Servers, Cloud & Monitoring</b></li>
         <li>🌱 I’m currently learning <b>more about Automation and Cloud Architectures</b></li>
         <li>💬 Ask me about <b>Azure, PRTG, Java or Python</b></li>
-        <li>📫 How to reach me: <b>[Tu Correo/LinkedIn]</b></li>
-        <li>⚡ Fun fact: <b>[Inserta un dato curioso tuyo aquí]</b></li>
+        <li>📫 How to reach me: <b>mendozaleonelinfo@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>Servers by day, code by night</b></li>
       </ul>
     </td>
     <td width="40%">
@@ -45,7 +41,7 @@ I'm fascinated by infrastructure and how cloud technology sustains modern applic
 ### 🤝 Connect with me:
 <p align="left">
   <!-- Cambia el link por tu URL real de LinkedIn -->
-  <a href="https://linkedin.com/in/TU_PERFIL" target="blank">
+  <a href="https://www.linkedin.com/in/leonel-mendoza-25581b260/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
