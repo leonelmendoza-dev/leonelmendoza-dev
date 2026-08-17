@@ -21,7 +21,7 @@ I'm a massive STEM enthusiast currently evolving into a DevSecOps role. Why? Bec
     </td>
     <td width="40%">
       <!-- Puedes cambiar este enlace por el GIF o PNG de la ilustración que más te guste -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWlldDMzZW8yZ25oeGdyeWZ0dWs2OGZxemE5bWM2emFlNnkxYnhnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HW3T1wWW3z2Ff2cpXO/giphy.gif" alt="Programmer illustration" width="100%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI5NHEyc2pxandrZG92OXlpYnMyYXcyZ3c3c211MjB3Mm85cjZhcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3wr2cnwlghNomDeN9W/giphy.gif" alt="Programmer illustration" width="100%">
     </td>
   </tr>
 </table>
@@ -30,11 +30,19 @@ I'm a massive STEM enthusiast currently evolving into a DevSecOps role. Why? Bec
 
 <!-- SECCIÓN DE TECNOLOGÍAS -->
 ### ⚙️ Languages and Tools:
+
 <p align="left">
-  <!-- Estos íconos se generan automáticamente con esta URL. Puedes agregar más separándolos por comas -->
+  <!-- Íconos nativos (Aquí agregué 'grafana' al final de tu lista) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,redhat,windows,linux,java,python,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=azure,redhat,windows,linux,java,python,cpp,vscode,grafana" />
   </a>
+</p>
+
+<p align="left">
+  <!-- Badges adicionales para infraestructura y monitoreo -->
+  <img src="https://img.shields.io/badge/VMware-363C59.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/PRTG_Network_Monitor-00568D.svg?style=for-the-badge&logoColor=white" alt="PRTG" />
+  <img src="https://img.shields.io/badge/AVI_Networks-0095D5.svg?style=for-the-badge&logoColor=white" alt="AVI" />
 </p>
 
 <!-- SECCIÓN DE REDES SOCIALES -->
