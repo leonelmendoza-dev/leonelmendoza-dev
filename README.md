@@ -3,7 +3,7 @@
 
 <p align="center">
 <!-- Aquí va tu texto introductorio. Puedes editarlo a tu gusto -->
-I'm fascinated by infrastructure and how cloud technology sustains modern applications. I enjoy balancing the world of servers with the logic of programming.
+I'm a massive STEM enthusiast currently evolving into a DevSecOps role. Why? Because I'm equally obsessed with writing clean code and locking down infrastructure. For me, building a system is just as fun as making sure it's bulletproof.
 </p>
 
 
@@ -21,7 +21,7 @@ I'm fascinated by infrastructure and how cloud technology sustains modern applic
     </td>
     <td width="40%">
       <!-- Puedes cambiar este enlace por el GIF o PNG de la ilustración que más te guste -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/programmer.gif" alt="Programmer illustration" width="100%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI5NHEyc2pxandrZG92OXlpYnMyYXcyZ3c3c211MjB3Mm85cjZhcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Programmer illustration" width="100%">
     </td>
   </tr>
 </table>
