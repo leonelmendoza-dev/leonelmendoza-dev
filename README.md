@@ -13,15 +13,15 @@ I'm a massive STEM enthusiast currently evolving into a DevSecOps role. Why? Bec
     <td width="60%">
       <ul>
         <li>🔭 I’m currently working on <b>Servers, Cloud & Monitoring</b></li>
-        <li>🌱 I’m currently learning <b>more about Automation and Cloud Architectures</b></li>
-        <li>💬 Ask me about <b>Azure, PRTG, Java or Python</b></li>
+        <li>🌱 I’m currently learning <b>more about Automation, Cloud Architectures and Cibersecurity</b></li>
+        <li>💬 Ask me about <b>Azure, PRTG, Java, C++, Grafana, Windows Server, VMware or Python</b></li>
         <li>📫 How to reach me: <b>mendozaleonelinfo@gmail.com</b></li>
         <li>⚡ Fun fact: <b>Servers by day, code by night</b></li>
       </ul>
     </td>
     <td width="40%">
       <!-- Puedes cambiar este enlace por el GIF o PNG de la ilustración que más te guste -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI5NHEyc2pxandrZG92OXlpYnMyYXcyZ3c3c211MjB3Mm85cjZhcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Programmer illustration" width="100%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWlldDMzZW8yZ25oeGdyeWZ0dWs2OGZxemE5bWM2emFlNnkxYnhnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HW3T1wWW3z2Ff2cpXO/giphy.gif" alt="Programmer illustration" width="100%">
     </td>
   </tr>
 </table>
